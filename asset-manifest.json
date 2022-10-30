@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iOS-Calculator/static/css/main.ea6aea6d.css",
+    "main.js": "/iOS-Calculator/static/js/main.d21b69a6.js",
+    "index.html": "/iOS-Calculator/index.html",
+    "main.ea6aea6d.css.map": "/iOS-Calculator/static/css/main.ea6aea6d.css.map",
+    "main.d21b69a6.js.map": "/iOS-Calculator/static/js/main.d21b69a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea6aea6d.css",
+    "static/js/main.d21b69a6.js"
+  ]
+}
